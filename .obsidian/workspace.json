@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "70e10ca19b4e710e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a41b14a7ad6acc68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cb6eff4aacf9e12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大纲.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "657359d5c85a9165",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "图书馆站/1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b40da727df93b93",
+    "type": "split",
+    "children": [
+      {
+        "id": "eac17bf4f41b9b93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dad64b7a81daa36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6745f0d13a150c5f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "12c64bba09e27570",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 251.5
+  },
+  "right": {
+    "id": "cc43ec4e6521d5f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "18215ee448898000",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c8fc235209c18b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "大纲.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "大纲 的反向链接列表"
+            }
+          },
+          {
+            "id": "a6bb6d03030459ed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "大纲.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "大纲 的出链列表"
+            }
+          },
+          {
+            "id": "ffc34af0640be1a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e20b467b729b133e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "2592548f4afa8d2b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "图书馆站/1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "1 的大纲"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "657359d5c85a9165",
+  "lastOpenFiles": [
+    "TerminalDepartureTrain",
+    "大纲.md",
+    "图书馆站/1.md",
+    "太阳站.md",
+    "图书馆站",
+    "太阳站",
+    "图书馆站.md",
+    "成文/图书馆站.md",
+    "成文/黑洞站/总.md",
+    "童话（？.md",
+    "成文/黑洞站/4-2.md",
+    "成文/黑洞站/1.md",
+    "总.md",
+    "成文/黑洞站",
+    "2-1.md",
+    "成文/列车已经在黑暗中行驶了很久。顾思趴在冰凉的窗玻璃上，原本那个金灿.txt",
+    "成文/后.txt",
+    "成文/初1.txt",
+    "成文/黑洞站/4-1.md",
+    "成文/黑洞站/3-1.md",
+    "成文/黑洞站/2-2.md",
+    "成文/黑洞站/2-1.md",
+    "成文/黑洞站/2.md",
+    "成文/“这里连一个人都没有。”顾思环视着站台内部，甚至连供人休息的长椅上，都覆盖着一层厚厚的奶油。.txt",
+    "2.md",
+    "1.md",
+    "成文",
+    "4-1.md",
+    "3-1.md",
+    "4-2",
+    "“这里连一个人都没有。”顾思环视着站台内部，甚至连供人休息的长椅上，都覆盖着一层厚厚的奶油。.txt",
+    "2-2.md"
+  ]
+}
