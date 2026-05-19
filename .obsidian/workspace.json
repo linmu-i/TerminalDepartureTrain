@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "图书馆站/1.md",
+                "file": "成文/黑洞站/总.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1"
+              "title": "总"
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "图书馆站/1.md",
+                "file": "成文/黑洞站/总.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1 的大纲"
+              "title": "总 的大纲"
             }
           }
         ],
@@ -200,6 +200,7 @@
   },
   "active": "657359d5c85a9165",
   "lastOpenFiles": [
+    "成文/黑洞站/1.md",
     "TerminalDepartureTrain",
     "大纲.md",
     "图书馆站/1.md",
@@ -211,7 +212,6 @@
     "成文/黑洞站/总.md",
     "童话（？.md",
     "成文/黑洞站/4-2.md",
-    "成文/黑洞站/1.md",
     "总.md",
     "成文/黑洞站",
     "2-1.md",
@@ -230,7 +230,6 @@
     "4-1.md",
     "3-1.md",
     "4-2",
-    "“这里连一个人都没有。”顾思环视着站台内部，甚至连供人休息的长椅上，都覆盖着一层厚厚的奶油。.txt",
     "2-2.md"
   ]
 }
